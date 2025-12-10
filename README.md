@@ -1,7 +1,5 @@
 ## 📈 The Project
 
----
-
 This repository explores the **Rock-Paper-Scissors (RPS)** model for DESE71019 Modelling and Simulation module.
 
 It combines mathematical analysis using continuous replicator dynamics and particle-based simulation to compare behaviours with stochastic, real-world dynamics. The project examines non-dimensionalisation, fixed points, stability, and phase-space behaviour, bifurcation, and more.
@@ -11,8 +9,6 @@ When running the code, please `Enable Dynamics` in Wolfram Mathematica for the s
 
 
 ## 🧟 The Value
-
----
 
 From an evolutionary perspective, the project shows how adjusting a populations’s advantage over its prey affect the population. Interestingly, in 3 species cyclic pattern, by becoming more effective at eliminating its prey, a species indirectly strengthens the population that hunts it, shifting coexistence in favour of its predator.
 
